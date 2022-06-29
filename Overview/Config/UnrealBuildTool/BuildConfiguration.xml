@@ -1,0 +1,8 @@
+<Configuration xmlns="https://www.unrealengine.com/BuildConfiguration">
+    <ProjectFileGenerator>
+        <Format>VisualStudio2019</Format>
+    </ProjectFileGenerator>
+        <BuildConfiguration>
+            <MaxParallelActions>12</MaxParallelActions>
+        </BuildConfiguration>
+</Configuration>
